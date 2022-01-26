@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Awungferd/my-portfolio/static/css/main.cd58f987.css",
+    "main.js": "/Awungferd/my-portfolio/static/js/main.34d6a495.js",
+    "static/media/Mbecha02-removebg.png": "/Awungferd/my-portfolio/static/media/Mbecha02-removebg.a2c0448ec0120d7c0195.png",
+    "static/media/Mbecha023.png": "/Awungferd/my-portfolio/static/media/Mbecha023.9fb4a04d29990541aad1.png",
+    "static/media/Mbecha022.png": "/Awungferd/my-portfolio/static/media/Mbecha022.01555d96bffa79c2cda1.png",
+    "static/media/bgImg_hamish-weir-aYEUXnVG8tg-unsplash.jpg": "/Awungferd/my-portfolio/static/media/bgImg_hamish-weir-aYEUXnVG8tg-unsplash.a3d472b838b829c29bbf.jpg",
+    "static/media/simplifiedHistory.png": "/Awungferd/my-portfolio/static/media/simplifiedHistory.b4dcacaf07d78265923f.png",
+    "static/media/Slide1.JPG": "/Awungferd/my-portfolio/static/media/Slide1.2e0d7c11c3b6a12141e9.JPG",
+    "static/media/dateConverter.png": "/Awungferd/my-portfolio/static/media/dateConverter.87133aaef92235c6ff60.png",
+    "index.html": "/Awungferd/my-portfolio/index.html",
+    "main.cd58f987.css.map": "/Awungferd/my-portfolio/static/css/main.cd58f987.css.map",
+    "main.34d6a495.js.map": "/Awungferd/my-portfolio/static/js/main.34d6a495.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd58f987.css",
+    "static/js/main.34d6a495.js"
+  ]
+}
