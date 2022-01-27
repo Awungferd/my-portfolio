@@ -9,10 +9,10 @@ export default function Projects (){
 
        <div>
            <h1>Projects! Projects!</h1>
-           <CardGroup>
-  <Card border="primary">
+           <CardGroup  style={{color:"tomato", padding:"20px"}} >
+  <Card border="primary" bg="light" style={{color:"tomato", padding:"20px"}}>
     <Card.Img variant="top" src={Image2} />
-    <Card.Body>
+    <Card.Body >
       <Card.Title>History Simplified</Card.Title>
       <Card.Text>
         Tracking the history of the Dollar from Jackeymov through the Holy Roman Empire. Its journey across the Atlantic to the Americas and thence across the Atlantic to West Africa and back to Europe.
@@ -22,7 +22,7 @@ export default function Projects (){
       <small className="text-muted">Visit this project</small>
     </Card.Footer>
   </Card>
-  <Card border='success'>
+  <Card border='success' bg='light' style={{color:"tomato", padding:"20px"}}>
     <Card.Img variant="top" src={Image1} />
     <Card.Body>
       <Card.Title>Date Converter</Card.Title>
@@ -34,16 +34,19 @@ export default function Projects (){
       <small className="text-muted">Visit website</small>
     </Card.Footer>
   </Card>
-  <Card border='secondary'>
+  <Card border='secondary' bg='light' style={{color:"tomato", padding:"20px"}}>
     <Card.Img variant="top" src={Image3} />
     <Card.Body>
-      <Card.Title>Card title</Card.Title>
+      <Card.Title>YouLearn</Card.Title>
       <Card.Text>
-      Hybrid learning is one of the main trends in the digitization for each, younger students and working adults. Our low code SaaS solution enables drivers of universities, high schools, schools and even every kind of enterprise or even non-government organizations to setup, design and manage individual platforms for e-learning
+      Hybrid learning is one of the main trends in the digitization for all, younger students and working adults.
+       Our low code SaaS solution enables drivers of universities, 
+      high schools, schools and even every kind of enterprise or even non-government organizations to setup, 
+      design and manage individual platforms for e-learning
       </Card.Text>
     </Card.Body>
     <Card.Footer>
-      <small className="text-muted">Last updated 3 mins ago</small>
+    <small className="text-muted">Visit website</small>
     </Card.Footer>
   </Card>
 </CardGroup>

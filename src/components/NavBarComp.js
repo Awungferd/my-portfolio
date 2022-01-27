@@ -1,14 +1,10 @@
 import React from 'react';
 import {
     Nav,
-    Navbar,
-    NavDropdown,
-    Container,
-    Form,
-    FormControl,
-    Button
+    Navbar,    
+    Container,    
 } from 'react-bootstrap';
-import {BrowserRouter, Switch, Routes, Route, Link} from 'react-router-dom';
+import {BrowserRouter, Routes, Route, Link} from 'react-router-dom';
 import Home from "./Home"
 import About from './About';
 import Contact from './Contact';
@@ -21,7 +17,7 @@ export default function NavBarComp() {
             <div>                
                  <Navbar collapseOnSelect expand="lg" bg="success" variant="dark">
                     <Container>
-                        {/* <Navbar.Brand as={Link} to={"/"}>Ferdinand's Portfolio'</Navbar.Brand> */}
+                        <Navbar.Brand as={Link} to={"/"}>Ferdinand's Portfolio'</Navbar.Brand> 
                         <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
                         <Navbar.Collapse id="responsive-navbar-nav">
                             <Nav className="me-auto">

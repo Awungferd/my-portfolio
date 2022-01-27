@@ -1,0 +1,6 @@
+.aboutCard{
+    color: white;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgba(0, 0, 0, 0.8); /* 80% Black */
+}
